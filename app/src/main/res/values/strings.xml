@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordPress Sync</string>
+    <string name="hint_site_url">https://appnbmedia.ru</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_load_posts">Загрузить посты</string>
+    <string name="settings">Настройки</string>
+    <string name="posts">Посты с сайта</string>
+    <string name="error_no_url">Введите URL сайта в настройках</string>
+    <string name="error_load">Ошибка загрузки</string>
+</resources>
